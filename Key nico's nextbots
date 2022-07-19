@@ -13,7 +13,7 @@ _G.Key = "Hello"
 _G.KeyInput = "string"
 
 function MakeScriptHub()
-    loadstring(game:HttpGet("https://pastebin.com/YVk4hmPW", true))()
+    loadstring(game:HttpGet("https://github.com/Luxjully/Dumbo-Hub/blob/main/Dumbo%20Hub%20%7C%20nico's%20nextbots", true))()
 end
 
 function CorrectKeyNotification()
