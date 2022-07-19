@@ -79,3 +79,5 @@ Main:AddButton({
         wow.CFrame = cool
   	end  
 })
+
+OrionLib:Init()
