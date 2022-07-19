@@ -1,3 +1,4 @@
+if game.PlaceId == 10118559731 then
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "Dumbo Hub | nico's nextbots", HidePremium = false, IntroText= "Dumbo Hub", SaveConfig = true, ConfigFolder = "OrionTest"})
 
@@ -79,5 +80,3 @@ Main:AddButton({
         wow.CFrame = cool
   	end  
 })
-
-OrionLib:Init()
